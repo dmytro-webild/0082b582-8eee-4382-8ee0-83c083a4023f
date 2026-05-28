@@ -110,7 +110,7 @@ export default function LandingPage() {
       <div id="about" data-section="about" className={`${inter.variable} ${openSans.variable}`}>
         <TextAbout
           title="Nuestra Pasión por la Autenticidad Italiana"
-          body="En Pizzería Nueva Italia, somos un restaurante local en Lourdes dedicado a la creación de pizzas artesanales con recetas que nos distinguen. Valorados con 4.6 estrellas en más de 200 reseñas, nos enorgullece ofrecer una experiencia culinaria excepcional con la mejor relación calidad-precio. Cada pizza se elabora con ingredientes frescos y amor, trayendo el verdadero sabor de Italia a su mesa."
+          description="En Pizzería Nueva Italia, somos un restaurante local en Lourdes dedicado a la creación de pizzas artesanales con recetas que nos distinguen. Valorados con 4.6 estrellas en más de 200 reseñas, nos enorgullece ofrecer una experiencia culinaria excepcional con la mejor relación calidad-precio. Cada pizza se elabora con ingredientes frescos y amor, trayendo el verdadero sabor de Italia a su mesa."
           useInvertedBackground={false}
         />
       </div>
